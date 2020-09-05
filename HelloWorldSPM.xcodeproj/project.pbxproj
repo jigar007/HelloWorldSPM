@@ -49,6 +49,7 @@
 		01A84EAF25037490003A8D4C /* HelloWorldSPMUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldSPMUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01A84EB325037490003A8D4C /* HelloWorldSPMUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldSPMUITests.swift; sourceTree = "<group>"; };
 		01A84EB525037490003A8D4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01A84EC225037558003A8D4C /* MySPM */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MySPM; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		01A84E852503748E003A8D4C = {
 			isa = PBXGroup;
 			children = (
+				01A84EC225037558003A8D4C /* MySPM */,
 				01A84E902503748E003A8D4C /* HelloWorldSPM */,
 				01A84EA725037490003A8D4C /* HelloWorldSPMTests */,
 				01A84EB225037490003A8D4C /* HelloWorldSPMUITests */,
